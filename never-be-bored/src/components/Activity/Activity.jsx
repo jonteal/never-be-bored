@@ -53,9 +53,13 @@ const Activity = () => {
         >
             <main>
             {/* <h1 className="title">Do something!</h1> */}
-            <button className="activityBtn" onClick={handleGetActivity}>
-                Get Activity
-            </button>
+
+            <div class="box-1">
+                <div className="btn btn-one" onClick={handleGetActivity}>
+                    <span>Get Activity</span>
+                </div>
+            </div>
+
             <div className="activityContainer">
                 <p className="activityContent">{activity.activity}</p>
             </div>
