@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/never-be-bored/static/css/main.5e7779f5.css",
+    "main.js": "/never-be-bored/static/js/main.beaddd3d.js",
+    "index.html": "/never-be-bored/index.html",
+    "main.5e7779f5.css.map": "/never-be-bored/static/css/main.5e7779f5.css.map",
+    "main.beaddd3d.js.map": "/never-be-bored/static/js/main.beaddd3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e7779f5.css",
+    "static/js/main.beaddd3d.js"
+  ]
+}
