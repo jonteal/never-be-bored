@@ -56,3 +56,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Resources / Credits
 * Bored API: https://www.boredapi.com/
+
+* Button animation: Simple CSS Button Hover Effects - Natalia Reshetnikova - CodePen
